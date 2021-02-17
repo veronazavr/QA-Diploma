@@ -47,4 +47,4 @@ out/
 /.allure/
 /build (2)/
 .allure
-artifacts/aqa-shop.jar
+!artifacts/aqa-shop.jar
