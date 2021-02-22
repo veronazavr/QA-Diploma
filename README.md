@@ -16,7 +16,7 @@
 ### Подготовительный этап
 1. Установить и запустить IntelliJ IDEA;
 1. Установать и запустить Docker Desktop;
-1. Скопировать репозиторий с Github [по ссылке](https://github.com/Irina-Bebenina/QA-Diplom).
+1. Скопировать репозиторий с Github [по ссылке](https://github.com/veronazavr/QA-Diploma).
 1. Открыть проект в IntelliJ IDEA.
 
 ### Запуск тестового приложения
