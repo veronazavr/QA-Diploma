@@ -8,9 +8,9 @@
 [Ссылка на Дипломное задание](https://github.com/netology-code/qa-diploma).
 
 ## Тестовая документация
-1. [План тестирования](https://github.com/Irina-Bebenina/QA-Diplom/blob/master/Plan.md);
-1. [Отчёт по итогам тестирования](https://github.com/Irina-Bebenina/QA-Diplom/blob/master/Report.md);
-1. [Отчет по итогам автоматизации](https://github.com/Irina-Bebenina/QA-Diplom/blob/master/Summary.md)
+1. [План тестирования](https://github.com/veronazavr/QA-Diploma/blob/master/Plan.md);
+1. [Отчёт по итогам тестирования](https://github.com/veronazavr/QA-Diploma/blob/master/Report.md);
+1. [Отчет по итогам автоматизации](https://github.com/veronazavr/QA-Diploma/blob/master/Summary.md)
 
 ## Запуск приложения
 ### Подготовительный этап
