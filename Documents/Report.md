@@ -22,11 +22,11 @@
 * 14 не успешных – что составляет 37 %
 
 #### Подготовлены отчёты:
-* [Отчёт Gradle](https://github.com/Irina-Bebenina/QA-Diplom/issues/7)
-* [Отчёт Allure](https://github.com/Irina-Bebenina/QA-Diplom/issues/8)
+* [Отчёт Gradle](https://github.com/veronazavr/QA-Diploma/issues/7)
+* [Отчёт Allure](https://github.com/veronazavr/QA-Diploma/issues/8)
 
 ### Общие рекомендации
-* Устранить выявленные баги. Указаны в [issue](https://github.com/Irina-Bebenina/QA-Diplom/issues);
+* Устранить выявленные баги. Указаны в [issue](https://github.com/veronazavr/QA-Diploma/issues);
 * Визуально отделить способы оплаты (например, сделать разный фон вкладок);
 * Кнопки "Купить" и "Купить в кредит" при нажатии должны изменять цвет, означающий активность выбранного способа оплаты;
 * Кнопка "Продолжить" должна становиться активной при отсутствии ошибок при заполнении полей формы.
